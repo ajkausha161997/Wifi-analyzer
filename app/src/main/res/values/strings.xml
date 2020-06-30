@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wifi Manager</string>
+    <string name="action_settings">About</string>
+    <string name="dialog_text">
+        WiFi Manager
+        \nVersion 1.0
+        \nAll rights reserved.
+        \n\nContact:
+        \nAjay Kaushal
+        \najaykaushal465@gmail.com
+    </string>
+    <string name="title_activity_monitor">Monitor Wifi Signal</string>
+    <string name="dbm">dBm</string>
+
+
+
+
+    <!-- CARD INFO STRINGS -->
+    <string name="sleep_now_card_info_title">Get to know strength of your Network?</string>
+    <string name="sleep_now_card_info_summary">Check signal strength, properties, monitor signals</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="monitor_signal">Monitor Signal</string>
+    <string name="properties">Properties</string>
+    <string name="connected_n_w_strength">Connected N/W Strength</string>
+    <string name="wi_fi">Wi-Fi</string>
+
+
+</resources>

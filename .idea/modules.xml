@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/New folder-wifi-analyzer-master.iml" filepath="$PROJECT_DIR$/.idea/modules/New folder-wifi-analyzer-master.iml" group="wifi-analyzer-master" />
+      <module fileurl="file://$PROJECT_DIR$/WifiAnalyzer.iml" filepath="$PROJECT_DIR$/WifiAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifi-analyzer-master.iml" filepath="$PROJECT_DIR$/wifi-analyzer-master.iml" group="wifi-analyzer-master" />
+    </modules>
+  </component>
+</project>

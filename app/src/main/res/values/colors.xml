@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50739</color>
+    <color name="colorPrimaryDark">#F50739</color>
+    <color name="colorAccent">#F50739</color>
+    <color name="colorAccentDark">#000000</color>
+    <color name="colorSubhead">#F50739</color>
+
+
+
+
+    <!-- 100, 87, 54 etc.. - OPACITY IN PERCENTAGE -->
+    <color name="colorWhite100">#FFFFFF</color>
+    <color name="colorWhite87">#DEFFFFFF</color>
+    <color name="colorWhite70">#B3FFFFFF</color>
+    <color name="colorWhite54">#8AFFFFFF</color>
+    <color name="colorWhite50">#8FFFFFF0</color>
+    <color name="colorWhite38">#61FFFFFF</color>
+    <color name="colorWhite12">#1FFFFFFF</color>
+
+    <color name="colorTextPrimaryNegative">@color/colorWhite100</color>
+    <color name="colorTextSecondaryNegative">@color/colorWhite70</color>
+    <color name="colorTextDisabledNegative">@color/colorWhite50</color>
+
+
+
+
+
+
+
+
+
+
+</resources>
